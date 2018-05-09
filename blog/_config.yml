@@ -79,3 +79,6 @@ theme: Melody
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: git@github.com:llllllllllar/hexo_blog.git
   type: github
+
+social:
+  github: https://github.com/llllllllllar
