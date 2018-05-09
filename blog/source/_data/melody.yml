@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 风行的博客站点
-subtitle: 好好学习工作、吃饭睡觉
+title: 
+subtitle:
 description:
 keywords:
 author: 风行
@@ -13,8 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://llllllllllar.github.io/
-root: /blogs/
+url: http://yoursite.com
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -50,7 +50,7 @@ highlight:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 5
+  per_page: 10
   order_by: -date
 
 # Category & Tag
